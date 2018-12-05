@@ -37,7 +37,7 @@
 		?>
 			<form class="form-horizontal loginFrm" action="?open=LoginValidasi"  method="POST">
 				<div class="control-group">
-				<h5>Iniciar Sesión / Registrar</h5>
+				<h5>INICIAR SESIÓN/ Registrar</h5>
 						<label><b>Usuario</b></label>
 							<input type="text" name="txtUsername" class="span2" id="inputEmail" placeholder="Uuario" required>
 						  </div>
