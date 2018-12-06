@@ -6,7 +6,6 @@ include_once "library/inc.library.php";
 <!DOCTYPE html>
 
 
-
 <html lang="en">
   <head bgcolor="black">
     <meta charset="utf-8">
